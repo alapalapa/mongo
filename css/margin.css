@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+body {
+	margin-top:20px;
+}
+
+div.input-group {
+	margin-bottom:10px;
+}
